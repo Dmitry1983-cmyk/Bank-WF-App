@@ -1,0 +1,13 @@
+G:\Проекты\Bank_2\Bank_2\bin\Debug\Bank_2.exe.config
+G:\Проекты\Bank_2\Bank_2\bin\Debug\Bank_2.exe
+G:\Проекты\Bank_2\Bank_2\bin\Debug\Bank_2.pdb
+G:\Проекты\Bank_2\Bank_2\obj\Debug\Bank_2.csprojAssemblyReference.cache
+G:\Проекты\Bank_2\Bank_2\obj\Debug\Bank_2.Form1.resources
+G:\Проекты\Bank_2\Bank_2\obj\Debug\Bank_2.Properties.Resources.resources
+G:\Проекты\Bank_2\Bank_2\obj\Debug\Bank_2.csproj.GenerateResource.cache
+G:\Проекты\Bank_2\Bank_2\obj\Debug\Bank_2.csproj.CoreCompileInputs.cache
+G:\Проекты\Bank_2\Bank_2\obj\Debug\Bank_2.exe
+G:\Проекты\Bank_2\Bank_2\obj\Debug\Bank_2.pdb
+G:\Проекты\Bank_2\Bank_2\obj\Debug\Bank_2.Admin.AdminForm.resources
+G:\Проекты\Bank_2\Bank_2\obj\Debug\Bank_2.Registr.RegistrationForm.resources
+G:\Проекты\Bank_2\Bank_2\obj\Debug\Bank_2.User.UserBalansForm.resources
